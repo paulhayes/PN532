@@ -1,0 +1,14 @@
+{
+  "name": "PN532",
+  "version": "0.0.0",
+  "frameworks": ["arduino"],
+  "includeDir": "PN532",
+  "repository":
+  {
+      "type": "git",
+      "url": "https://github.com/paulhayes/PN532.git"
+  },
+  "flags": [
+    "-IPN532/PN532_I2C"
+  ]
+}
